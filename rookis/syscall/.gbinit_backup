@@ -1,0 +1,5 @@
+file /home/raw/Documents/pwnable/rookis/syscall/a.out
+set sysroot /mnt/ubuntu-arm/
+set debug-file-directory /mnt/ubuntu-arm/usr/lib/debug
+dir /home/raw/Documents/pwnable/rookis/syscall
+target remote localhost:1337
